@@ -19,7 +19,7 @@ Ensure you have Python installed on your system. This program is compatible with
 
 3. Run the program:
    ```bash
-   odin run . -<amount of nodes: 1500>
+   odin run . -- <amount of nodes: 1500>
    ```
 ## Controls
 
